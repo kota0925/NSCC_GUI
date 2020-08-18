@@ -1,0 +1,10 @@
+C:\Users\hiroki\source\repos\NSCC GUI\NSCC GUI\bin\Debug\NSCC GUI.exe.config
+C:\Users\hiroki\source\repos\NSCC GUI\NSCC GUI\bin\Debug\NSCC GUI.exe
+C:\Users\hiroki\source\repos\NSCC GUI\NSCC GUI\bin\Debug\NSCC GUI.pdb
+C:\Users\hiroki\source\repos\NSCC GUI\NSCC GUI\obj\Debug\NSCC GUI.csprojAssemblyReference.cache
+C:\Users\hiroki\source\repos\NSCC GUI\NSCC GUI\obj\Debug\NSCC_GUI.Main.resources
+C:\Users\hiroki\source\repos\NSCC GUI\NSCC GUI\obj\Debug\NSCC_GUI.Properties.Resources.resources
+C:\Users\hiroki\source\repos\NSCC GUI\NSCC GUI\obj\Debug\NSCC GUI.csproj.GenerateResource.cache
+C:\Users\hiroki\source\repos\NSCC GUI\NSCC GUI\obj\Debug\NSCC GUI.csproj.CoreCompileInputs.cache
+C:\Users\hiroki\source\repos\NSCC GUI\NSCC GUI\obj\Debug\NSCC GUI.exe
+C:\Users\hiroki\source\repos\NSCC GUI\NSCC GUI\obj\Debug\NSCC GUI.pdb

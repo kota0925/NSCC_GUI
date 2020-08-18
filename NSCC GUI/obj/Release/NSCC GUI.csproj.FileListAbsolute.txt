@@ -1,0 +1,9 @@
+C:\Users\hiroki\source\repos\NSCC GUI\NSCC GUI\bin\Release\NSCC GUI.exe.config
+C:\Users\hiroki\source\repos\NSCC GUI\NSCC GUI\bin\Release\NSCC GUI.exe
+C:\Users\hiroki\source\repos\NSCC GUI\NSCC GUI\bin\Release\NSCC GUI.pdb
+C:\Users\hiroki\source\repos\NSCC GUI\NSCC GUI\obj\Release\NSCC_GUI.Main.resources
+C:\Users\hiroki\source\repos\NSCC GUI\NSCC GUI\obj\Release\NSCC_GUI.Properties.Resources.resources
+C:\Users\hiroki\source\repos\NSCC GUI\NSCC GUI\obj\Release\NSCC GUI.csproj.GenerateResource.cache
+C:\Users\hiroki\source\repos\NSCC GUI\NSCC GUI\obj\Release\NSCC GUI.csproj.CoreCompileInputs.cache
+C:\Users\hiroki\source\repos\NSCC GUI\NSCC GUI\obj\Release\NSCC GUI.exe
+C:\Users\hiroki\source\repos\NSCC GUI\NSCC GUI\obj\Release\NSCC GUI.pdb
